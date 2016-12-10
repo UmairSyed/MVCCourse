@@ -15,6 +15,6 @@ namespace MvcCourse.Models
         }
         //public IEnumerable<LandingPage> LandingPages { get; internal set; }
 
-        // GET: HomepageViewModel
+        // GET: HomepageViewModel x
     }
 }
